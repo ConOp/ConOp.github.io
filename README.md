@@ -1,2 +1,1 @@
-# Retro_Game
-# Phaser3 and Javascript Game
+# Phaser3 and Javascript Retro Game
